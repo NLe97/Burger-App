@@ -1,0 +1,30 @@
+{
+  "name": "Burger App",
+  "version": "1.0.0",
+  "description": "hw13",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NLe97/Burger-App"
+  },
+  "keywords": [
+    "burger"
+  ],
+  "author": "ben",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NLe97/Burger-App/issues"
+  },
+  "homepage": "https://github.com/NLe97/Burger-App#readme",
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "dependencies": "0.0.1",
+    "express": "^4.14.1",
+    "express-handlebars": "^3.0.0",
+    "method-override": "^2.3.7",
+    "mysql": "^2.13.0"
+  }
+}
