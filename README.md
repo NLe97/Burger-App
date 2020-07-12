@@ -1,6 +1,6 @@
 # **Burger App**
 
- ![Github](https://img.shields.io/github/last-commit/NLe97/BurgerApp)
+ ![Github](https://img.shields.io/github/last-commit/NLe97/Burger-App)
 
  ## **Description**
  This application allows the user to name a burger and use the click devour button to devour the burger. 
