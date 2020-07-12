@@ -13,7 +13,8 @@ h1{
   margin-bottom: 5px;
 }
 body{
-	background-image: url("../img/check.jpg");
+	background-image: url("../img/krustykrab.png");
+	background-size: cover;
 }
 .main-container{
 	text-align: center;
@@ -37,7 +38,7 @@ img{
 	margin-top: 20px;
 	padding: 30px;
 	box-shadow: 5px 5px 5px black;
-	background-color: #d9d7d6;
+	background-color:rgb(122, 162, 214);
 	align-content: center;
 }
 .main-container{

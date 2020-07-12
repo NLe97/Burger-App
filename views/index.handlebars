@@ -1,10 +1,10 @@
 <div class="main-container">
 	<img src="assets/img/burger.png" width="300" height="300"/>
-	<h1 style="font-family: 'Sigmar One', cursive; color: red">Burger Time!</h1>
+	<h1 style="font-family: 'Sigmar One', cursive; color: yellow">The Burger App!</h1>
 
 	<div class="container">
 		<div class="centered" class="list">
-		  <h2>Burgers:</h2>
+		  <h2 style="font-family: 'Sigmar One', cursive; color: yellow">Burgers:</h2>
 		  <ul class="list-group" style="align-content: center;
 	align-content: center; ">
 		    {{#each burgers}}
@@ -25,7 +25,7 @@
 
 	<div class="container">
 		<div class="centered" class="list">
-		  <h2 >Devoured Burgers:</h2>
+		  <h2 style="font-family: 'Sigmar One', cursive; color: yellow">Devoured Burgers:</h2>
 		  <ul class="list-group">
 		    {{#each burgers}}
 		      {{#if this.devoured}}
@@ -43,7 +43,7 @@
 
 	<div class="container">
 		<div class="centered" class="list">
-			<h2>Build your Burger</h2>
+			<h2 style="font-family: 'Sigmar One', cursive; color: yellow">Build your Burger</h2>
 			<form class="create-update-form" action="/" method="POST">
 			  <div class="form-group">
 			    <label for="burger">Burger Name:</label>
